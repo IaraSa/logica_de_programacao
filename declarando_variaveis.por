@@ -1,8 +1,7 @@
-// Entendendo sobre variaveis e tipos de dados
-/* Variaveis s„o os nomes dados as posicoes nas memorias onde s„o armazenados os dados e cada variavel segue uma estrutura padrao, 
-que s„o: definicao de um nome, o tipo de dado que vai ser armazenado dentro dessa variavel e um valor que vai ser atribuido.
-
-Variavel quer dizer que o valor pode mudar conforme a utilizacao do programa.
+// * Entendendo o que s√£o variaveis, tipos de dados e como usa-los
+/* * Variaveis s√£o os nomes dados as posicoes nas memorias onde s√£o armazenados os dados e cada variavel segue uma estrutura padrao, que s√£o:
+definicao de um nome, o tipo de dado que vai ser armazenado dentro dessa variavel e um valor que vai ser atribuido.
+ * Variavel quer dizer que o valor pode mudar conforme a utilizacao do programa.
 */
 
 programa {
