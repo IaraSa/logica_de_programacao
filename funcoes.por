@@ -1,12 +1,12 @@
-// Trabalhando com funções
-/* Uma função é uma sub-rotina que executa uma determinada tarefa no programa, 
-retornando durante sua execução um resultado na tela para o usuario. 
+// Trabalhando com funcoes
+/* Uma funÃ§Ã£o Ã© uma sub-rotina que executa uma determinada tarefa no programa, 
+retornando durante sua execuÃ§Ã£o um resultado na tela para o usuario. 
 
-Criar uma função ajuda a ganhar produtividade no trabalho, evitando copiar o 
-mesmo código quando for necessario executar a mesma tarefa.
+Criar uma funÃ§Ã£o ajuda a ganhar produtividade no trabalho, evitando copiar o 
+mesmo cÃ³digo quando for necessario executar a mesma tarefa.
 
 Vantagens:
- - Reduz o código;
+ - Reduz o cÃ³digo;
  - Melhora todo o codigo;
  - Torna a sequencia logica do programa bem mais intuitiva e enxuta, ou seja, ler e compreender todo o codigo mais facilmente;
 
